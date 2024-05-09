@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(10, 9, 10);
+    text-transform: capitalize;
+}
+
+#first-div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+  color: tan;
+  text-align: center;
+}
+h2{
+        font-family: "Libre Baskerville", serif;
+      font-weight: 200;
+      font-style: italic;
+      color: tan;
+      text-align: center;
+      font-size: 15px;
+}
+#img1{
+    border: 5px solid tan ;
+    width: 100%;
+}
